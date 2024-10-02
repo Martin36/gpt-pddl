@@ -35,7 +35,7 @@ Run `Language2PDDL/domains/blocksworld/gen_pddl.sh` to generate PDDL problem tem
 
 ## Benchmark Generation
 
-Run `Language2PDDL/domains/blocksworld/gen_pddl.sh` to generate all benchmarks.
+Run `Language2PDDL/domains/blocksworld/gen_data.sh` to generate all benchmarks.
 
 Valid choices of `TASK_TYPE`s and their meanings are as follows:
 
